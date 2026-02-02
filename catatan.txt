@@ -1,0 +1,11 @@
+ini Tugas 5 yang belum selesai: 
+14 - E-Commerce Project with Laravel 10, Livewire 3, Filament 3 & Tailwind CSS
+
+jalanin nya :
+1.php artisan serve
+2.npm run build
+3.npm run dev
+
+login akun admin:
+email: admin@admin.com
+password: 12345
